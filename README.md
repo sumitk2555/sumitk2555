@@ -1,5 +1,9 @@
 # 💫 About Me:
 🔭 I’m currently working on Python & Django based web development projects and Android applications<br>👯 I’m looking to collaborate on Django, Python and Android app development projects<br>🤝 I’m looking for help with advanced Django features, Android development and cloud deployment<br>🌱 I’m currently learning Cloud Computing, Software Engineering and Android Application Development<br>💬 Ask me about Python, Django, MySQL, HTML, CSS and Android basics<br>⚡ Fun fact: I maintain 100% data accuracy and love solving technical problem
+💻 Python & Django Developer  
+🎓 Diploma in Computer Science (BTEUP)  
+🚀 Passionate about building scalable web applications  
+📍 Agra, Uttar Pradesh, India
 
 
 ## 🌐 Socials:
